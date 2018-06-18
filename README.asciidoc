@@ -1,4 +1,4 @@
-A simple Java EE 7 Sample - For using jenkins
+A simple Java EE 7 Sample - For using jenkins cii/cd
 =========================
 
 This is a trivial Java EE 7 sample.
